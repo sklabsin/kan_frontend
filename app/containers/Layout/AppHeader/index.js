@@ -60,7 +60,6 @@
              <SearchBox />
            </div>
            <div className="app-header-right">
-              
            </div>
          </div>
        </ReactCSSTransitionGroup>
